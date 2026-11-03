@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Sahil 👋
 
-<!--
-**singla07/singla07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer working on LLM agents and computer vision. I like turning research ideas into systems that are fast, reliable and actually used.
 
-Here are some ideas to get you started:
+**What I'm into right now**
+- Agentic systems that reason over structured data (SQL, knowledge graphs, ontologies)
+- Making LLM inference faster and cheaper: serving, quantization, caching
+- Evaluating LLM apps properly, beyond "it looks right"
+- Real-time detection and tracking on video
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools I reach for**
+Python · PyTorch · LangGraph · LangChain · vLLM · Hugging Face · YOLO · OpenCV · FastAPI · Docker
+
+**Elsewhere**
+[LinkedIn](https://www.linkedin.com/in/sahil-singla-5166ab238/) · [Email](mailto:sahilsinglaktr@gmail.com)
